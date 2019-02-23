@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "361329804221",
-    "firebase_url": "https://riopanuco.firebaseio.com",
-    "project_id": "riopanuco",
-    "storage_bucket": "riopanuco.appspot.com"
+    "project_number": "898709296651",
+    "firebase_url": "https://report-app.firebaseio.com",
+    "project_id": "report--app",
+    "storage_bucket": "report--app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:361329804221:android:0e5a75d68a4c892d",
+        "mobilesdk_app_id": "1:898709296651:android:c16ccdd9f9bffbec",
         "android_client_info": {
-          "package_name": "app.riopanuco.ga"
+          "package_name": "xyz.reportapp.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "361329804221-19mv492fbg84eolc8t9jtabrjuuiae44.apps.googleusercontent.com",
+          "client_id": "898709296651-bkhbmb228oh7mjja36onnhrqgoibov9j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD3GcbfoPW3Gu3DPUsRmjeah1gN1SdnuCI"
+          "current_key": "AIzaSyB_-qv7F6YsPNOCrjhK8jmauNz8wctu3SA"
         }
       ],
       "services": {
