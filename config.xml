@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="app.reportapp.xyz" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="xyz.reportapp.app" version="0.0.1">
 <name>Eolis</name>
-<description>xyz.reportapp.eolis</description>
+<description>xyz.reportapp.app</description>
 <author href="http://www.eolis.com.mx/" email="soporte@reportapp.xyz">ReportApp</author>
 
 <preference name="phonegap-version" value="cli-7.1.0" />
